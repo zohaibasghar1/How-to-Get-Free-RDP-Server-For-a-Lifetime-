@@ -3,13 +3,11 @@ Windows-11-VPS or Windows-11-Rdp lifetime Here this tutorial using Azure Cloud S
 sunglasses It's One Hour RDP Completely Free. 
 
 Demo Lab with Windows 11 VM: https://lms.godeploy.it/DemoLabs/Register 
-NEW VERSION RELEASE (Win2022/Win10/Win11): Open This :  *https://fadixd.com/how-to-get-free-rdp-mobile-pc-server-lifetime-100-working-2023/
-
-*Paste this into Cloud Shell :
+NEW VERSION RELEASE (Win2022/Win10/Win11): Open This :  * *Paste this into Cloud Shell :
 
 curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus image
 
-Using Method (Win11-ONLY): Open This : https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true
+Using Method (Win11-ONLY): Open This : [https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true](https://fadixd.com/how-to-get-free-rdp-mobile-pc-server-lifetime-100-working-2023/)
 
 Click on Activate Sandbox
 
