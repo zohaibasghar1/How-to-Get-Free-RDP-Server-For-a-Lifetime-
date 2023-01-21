@@ -15,7 +15,7 @@ Paste this into Cloud Shell:
 
 curl -skLO is.gd/azurewin11vm ; chmod +x azurewin11vm ; ./azurewin11vm
 
-Enjoy!! https://fadixd.com/100-free-rdp-for-lifetime-simply-explained-2023/
+Enjoy!! 
 
 Location: Your choice
 
@@ -33,12 +33,12 @@ Open your preferred Remote Desktop client, type the IP adress and use the creden
 
 WARN THIS IS ONLY FOR EDUCATIONAL PURPOSES
 
-DON'T USE FOR MINING OR ILLEGAL USE https://fadixd.com/100-free-rdp-for-lifetime-simply-explained-2023/
+DON'T USE FOR MINING OR ILLEGAL USE 
 
 Roblox games/Studio may have degraded performance and the in-game cursor may also not work due to it being connected via Remote Desktop.
 
-OPTIONAL: 1H: https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/6-exercise-connect-to-a-linux-vm-using-ssh?activate-azure-sandbox=true
+OPTIONAL: 1H: [https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/6-exercise-connect-to-a-linux-vm-using-ssh?activate-azure-sandbox=true](https://fadixd.com/how-to-get-free-rdp-mobile-pc-server-lifetime-100-working-2023/)
 
-1H: https://docs.microsoft.com/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/3-create-a-vm?activate-azure-sandbox=true
+1H: [https://docs.microsoft.com/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/3-create-a-vm?activate-azure-sandbox=true](https://fadixd.com/how-to-get-free-rdp-mobile-pc-server-lifetime-100-working-2023/)
 
 FAQ: Script stuck at "checking"...? Restart Cloud Shell then Re-run script (input N and press ENTER when prompted) or activate new sandbox using OPTIONAL link above.
