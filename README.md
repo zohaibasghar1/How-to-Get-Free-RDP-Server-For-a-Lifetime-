@@ -7,8 +7,8 @@ NEW VERSION RELEASE (Win2022/Win10/Win11): Open This :  * *Paste this into Cloud
 
 curl -skLO is.gd/azurewinvmplus ; chmod +x azurewinvmplus ; ./azurewinvmplus image
 
-Using Method (Win11-ONLY): Open This : [https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true](https://fadixd.com/how-to-get-free-rdp-mobile-pc-server-lifetime-100-working-2023/)
-
+Using Method (Win11-ONLY): Open This : [[https://docs.microsoft.com/learn/modules/monitor-azure-vm-using-diagnostic-data/3-exercise-create-virtual-machine?activate-azure-sandbox=true]
+](https://zaibrid.uk/share-via-whatsapps-made-with-kinemaster/)
 Click on Activate Sandbox
 
 Paste this into Cloud Shell:
@@ -37,8 +37,9 @@ DON'T USE FOR MINING OR ILLEGAL USE
 
 Roblox games/Studio may have degraded performance and the in-game cursor may also not work due to it being connected via Remote Desktop.
 
-OPTIONAL: 1H: [https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/6-exercise-connect-to-a-linux-vm-using-ssh?activate-azure-sandbox=true](https://fadixd.com/how-to-get-free-rdp-mobile-pc-server-lifetime-100-working-2023/)
+OPTIONAL: 1H: [[https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/6-exercise-connect-to-a-linux-vm-using-ssh?activate-azure-sandbox=true]](https://zaibrid.uk/share-via-whatsapps-made-with-kinemaster/)
 
-1H: [https://docs.microsoft.com/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/3-create-a-vm?activate-azure-sandbox=true](https://fadixd.com/how-to-get-free-rdp-mobile-pc-server-lifetime-100-working-2023/)
+1H: [[https://docs.microsoft.com/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/3-create-a-vm?activate-azure-sandbox=true]](https://zaibrid.uk/share-via-whatsapps-made-with-kinemaster/)
 
 FAQ: Script stuck at "checking"...? Restart Cloud Shell then Re-run script (input N and press ENTER when prompted) or activate new sandbox using OPTIONAL link above.
+A Complete Guide To Google Adsense Loading Method in 2024
